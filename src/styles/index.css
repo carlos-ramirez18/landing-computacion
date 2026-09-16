@@ -9,3 +9,7 @@
 html {
   scroll-behavior: smooth;
 }
+
+body {
+  @apply bg-paper font-sans text-ink antialiased;
+}

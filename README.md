@@ -1,4 +1,4 @@
-# [GP Computacion] — Landing Page
+# [NOMBRE DEL NEGOCIO] — Landing Page
 
 Landing page profesional para un negocio de venta de productos
 informáticos, accesorios, componentes de PC y servicio técnico.
@@ -137,7 +137,7 @@ capa (sin tocar los componentes de UI) para que haga `fetch` contra
 **Etapas de esta primera fase:**
 
 - [x] Etapa 0 — Fundación del repo (devcontainer, scaffold, lint/format, CI)
-- [ ] Etapa 1 — Design system base (tokens de color/tipografía, componentes `ui/`)
+- [x] Etapa 1 — Design system base (tokens de color/tipografía, componentes `ui/` — ver `docs/design-system.md`)
 - [ ] Etapa 2 — Layout (Header responsive + Footer)
 - [ ] Etapa 3 — Datos tipados (`types/`, `data/`, `services/`)
 - [ ] Etapa 4 — Secciones (Hero, Categorías, Servicios, Por qué elegirnos, Productos destacados, Sobre nosotros, Contacto)
