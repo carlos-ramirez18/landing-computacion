@@ -1,4 +1,4 @@
-# [NOMBRE DEL NEGOCIO] — Landing Page
+# GP Computacion — Landing Page
 
 Landing page profesional para un negocio de venta de productos
 informáticos, accesorios, componentes de PC y servicio técnico.
