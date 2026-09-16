@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Estilos base globales que no cubren las utilities de Tailwind
+  (por ejemplo, scroll suave para los anchors del header).
+*/
+html {
+  scroll-behavior: smooth;
+}
